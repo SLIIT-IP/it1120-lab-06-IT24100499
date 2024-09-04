@@ -35,7 +35,7 @@ public class IT24100499Lab6Q3{
 			double RMS = Math.sqrt(sum / counter);
 			System.out.println("The root mean square is (RMS)" + RMS);
 		}else {
-			System.out.println("There is not valid numbers entered");		
+			System.out.println("please enter poitive intiger or -99 to terminate");		
 		}
 			
 
